@@ -1,6 +1,6 @@
-# lgs
+# Last Grade Servents
 
-**syllabus**
+## syllabus
 
 sl no. | subject | mark
 --- | --- | ---
