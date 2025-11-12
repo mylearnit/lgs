@@ -12,33 +12,15 @@ question | book | page
 10 | social_8 | page 79
 
 
-## books
-
-https://www.flipkart.com/kerala-psc-last-grade-servants-lgs-rank-file-2024-talent-academy/p/itmb703a56650a65
-
-## questions 
-
-```
-1. Which statement is correct regarding the land tax system implemented by the British in India?
-
-britrishukaar indiayil nadappilaakkiya bhoonikuthi vyavasthayumaayi bandhappetta shariyaaya prasthaavana ethu?
-```
-
-a) The perpetual land tax system was the land tax system implemented in Bengal.
-
-bangalil nadappilaakkiya bhoonikuthi vyavasthayaanu shaaswatha bhoonikuthi vyavastha
-
-b) The Ryotwari system was a land tax system implemented in Bengal.
-
-bangalil nadappilaakkiya bhoonikuthi vyavasthayaanu rayattu vaari vyavastha
-
-c) The Ryotwari system was a land tax system implemented in northwestern India.
-
-vadakku padinjaaran indiayil nadappilaakkiya bhoonikuthi vyavasthayaanu rayattu vaari vyavastha
-
-d) The Mahalwari system is a land tax system implemented in Bengal.
-
-bangalil nadappilaakkiya bhoonikuthi vyavasthayaanu mahalvaari vyavastha
-
-
-
+questions | syllabus | sub syllabus
+--- | --- | ---
+1-5 | 1. പൊതുവിജ്ഞാനം | 1. Indian freedom movement, post-independence socio-political-cultural changes, national movements, freedom fighters, constitutional provisions
+6-10, 30 | 1. പൊതുവിജ്ഞാനം | 3. Rights & duties of citizens, basics of Indian Constitution
+11-15 | 1. പൊതുവിജ്ഞാനം | 6. Indian Independence and Kerala
+16,17,23, 40-52, 58,59,66,67 | 2. current affairs | -
+18-20 | 1. പൊതുവിജ്ഞാനം | 2. Major challenges faced by India after independence, wars, Five-Year Plans, different sectors development
+22,25-29 | 1. പൊതുവിജ്ഞാനം | 4. Geography of India: landforms, boundaries, basic data.
+31-39 | 1. പൊതുവിജ്ഞാനം | 5. Specific focus on Kerala: geography, basic information, rivers & backwaters, fisheries, self-governance institutions, wildlife etc.
+53-57 | 3. science | 1. Biology
+60-64 | 3. science | 2. Physics / Chemistry
+69-80 | 4. Public Health | -

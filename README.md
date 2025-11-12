@@ -21,6 +21,16 @@ sl no. | subject | mark
 6. ഇന്ത്യൻ സ്വാതന്ത്ര്യ സ്മരവുമായി ബന്ധപ്പെട്പ്പെട്ട് േറ്കരളത്തിലുണ്ടായ രാഷ്ട്രീയ സ്ാമൂഹിക മുന്നേറ്ന്നേറ്റങ്ങൾ, നേറ്വാത്ഥാന നായകന്മാർ (5 marks)
 7. ശാസ്ത്ര സ്ാേറ്ങ്കേതിക േറ്മഖല, കലാ സ്ാംസ്കാരിക േറ്മഖല, രാഷ്ട്രീയ, സ്ാമ്പത്തിക, സ്ാഹിതയ േറ്മഖല, കായിക േറ്മഖല എന്നേിവയുമായി ബന്ധപ്പെട്പ്പെട്ട വിവരങ്ങൾ (5 marks)
 
+#### I. General Knowledge
+
+1. "Indian Freedom Struggle - Political, social, and cultural movements related to the freedom struggle, national movements, freedom fighters, administrative systems, etc. (5 Marks)"
+2. "Major challenges faced by post-independence India, wars, five-year plans, progress and achievements in various fields (5 Marks)"
+3. "Rights and duties of a citizen, Indian Constitution - basic information (5 Marks)"
+4. "Geographical features of India, borders, basic information about India (5 Marks)"
+5. "Kerala - Geography, basic information, rivers and lakes, various electricity projects, wildlife sanctuaries and national parks, fisheries, sports, local self-government institutions, etc. (10 Marks)"
+6. "Political and social movements in Kerala related to the Indian freedom struggle, renaissance leaders (5 Marks)"
+7. "Information related to the scientific and technical field, art and cultural field, political, economic, literary field, and sports field (5 Marks)"
+
 
 ### 2. ആനുകാലിക വിഷയങ്ങൾ
 
@@ -48,12 +58,42 @@ sl no. | subject | mark
 11. sound and light
 12. solar system
 
+#### III. Science
+
+(i) Biology (5 Marks)
+1. General knowledge about the human body.
+2. Vitamins and deficiency diseases.
+3. Major food and agricultural crops of Kerala.
+4. "Forests, forest resources, social forestry."
+5. Environment and environmental problems.
+
+(ii) Physics / Chemistry (5 Marks)
+1. Atom and structure of the atom.
+2. Ores and minerals.
+3. Elements and their classification.
+4. Hydrogen and Oxygen.
+5. Chemistry in daily life.
+6. Matter and mass.
+7. Work and energy.
+8. Energy and its transformations.
+9. Heat and temperature.
+10. Movements and forces in nature.
+11. Sound and light.
+12. Solar system and its features.
+
 ### 4. പൊതുജനാരോഗ്യം
 
 1. സ്ാംക്രമികേറ്രാഗങ്ങളും േറ്രാഗകാരികളും
 2. അടിസ്ഥാന ആേറ്രാഗയ വിജ്ഞാനം
 3. ജീവിതൈശലി േറ്രാഗങ്ങൾ
 4. േറ്കരളത്തിെട്ല ആേറ്രാഗയേറ്ക്ഷ്മ പ്രവർത്തനങ്ങൾ
+
+#### IV. Public Health (10 Marks)
+
+1. Infectious diseases and pathogens.
+2. Basic health knowledge.
+3. Lifestyle diseases.
+4. Health welfare activities in Kerala.
 
 ### 5. maths
 
@@ -78,7 +118,6 @@ sl no. | subject | mark
 6. ഒറ്റയാെട്ന കെട്ണ്ടത്തൽ
 7. വയസുമായി ബന്ധപ്പെട്പ്പെട്ട പ്രശ്നങ്ങൾ
 8. സ്ഥാന നിർണ്ണയം
-
 
 
 ### day1
