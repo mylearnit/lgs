@@ -14,7 +14,7 @@ question | book | page
 
 questions | syllabus | sub syllabus
 --- | --- | ---
-1-5 | 1. പൊതുവിജ്ഞാനം | 1. Indian freedom movement, post-independence socio-political-cultural changes, national movements, freedom fighters, constitutional provisions
+1-5 | 1. പൊതുവിജ്ഞാനം | 1. Indian Freedom Struggle - Political, social, and cultural movements related to the freedom struggle, national movements, freedom fighters, administrative systems, etc. (5 Marks)
 6-10, 30 | 1. പൊതുവിജ്ഞാനം | 3. Rights & duties of citizens, basics of Indian Constitution
 11-15 | 1. പൊതുവിജ്ഞാനം | 6. Indian Independence and Kerala
 16,17,23, 40-52, 58,59,66,67 | 2. current affairs | -
