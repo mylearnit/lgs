@@ -17,6 +17,13 @@ Question Paper | Question | Options
 
 
 ### 2. "Major challenges faced by post-independence India, wars, five-year plans, progress and achievements in various fields (5 Marks)"
+
+Question Paper | SlNo | Question | Options
+--- | --- | --- | ---
+165/2024 A | 18 | Which of the following are among the objectives of the Fourth Five-Year Plan? i. Growth with stability ii. Poverty eradication iii. Self-reliance iv. Food self-sufficiency | A) i and iii B) ii and iv C) i and iv D) i and ii 
+165/2024 A | 19 | What were the methods adopted to merge the princely states into the Indian Union after independence? i. Military action ii. Instrument of Accession iii. Conciliation | A) i, iii B) ii, iii C) i, ii, iii D) i, ii 
+170/2024 A | 18 | 'Eradication of poverty, social justice, growth with equality' - The Five Year Plan started with this objective: | (A) Ninth Five Year Plan (B) Eighth Five Year Plan (C) Tenth Five Year Plan (D) Eleventh Five Year Plan
+
 ### 3. "Rights and duties of a citizen, Indian Constitution - basic information (5 Marks)"
 
 Question Paper | SlNo | Question | Options
@@ -26,9 +33,26 @@ Question Paper | SlNo | Question | Options
 165/2024 A | 15 | The court that can be approached if fundamental rights guaranteed by the Constitution are denied I. Supreme Court II. High Court III. Supreme Court and High Court IV. Munsiff Court | A) I correct B) II correct C) III correct D) II, IV correct
 165/2024 A | 16 | The preamble of the Indian Constitution was drafted by | A) Dr. B.R. Ambedkar  B) Jawaharlal Nehru  C) Dr. Rajendra Prasad D) Sardar Vallabhbhai Patel 
 165/2024 A | 17 | The last amendment to the Indian Constitution | A) Related to the statehood of Jammu and Kashmir B) Related to women's reservation in legislatures C) Related to money bills D) Regarding the reservation of backward classes
+170/2024 A | 6 | Who prepared the Preamble of the Indian Constitution? | (A) Jawaharlal Nehru (B) Mahatma Gandhi (C) Rajagopalachari (D) Dr. B.R. Ambedkar
+170/2024 A | 7 | By what name is a country with an elected head of state known? | (A) Federal (B) Republic (C) Democratic (D) Socialist
+170/2024 A | 8 | Where in the Indian Constitution is the concept of a 'Welfare State' mentioned? | (A) In the Fundamental Rights (B) In the Directive Principles (C) In the Preamble (D) In the Fundamental Duties
+170/2024 A | 9 | Which is the correct statement related to the Fundamental Rights of the Constitution? | (A) Fundamental Rights are included in Part I (B) Fundamental Rights are included in Part II (C) Fundamental Rights are included in Part III (D) Fundamental Rights are included in Part IV
+170/2024 A | 10 | The right to what is guaranteed by Article 21A of the Indian Constitution? | (A) Work (B) Privacy (C) Equality (D) Education
 
 ### 4. "Geographical features of India, borders, basic information about India (5 Marks)"
+
+Question Paper | SlNo | Question | Options
+--- | --- | --- | ---
+165/2024 A | 25 | Mount K2, the highest peak in India, is located in | A) Ladakh B) Zaskar C) Karakoram D) Siwalik 
+165/2024 A | 26 | What gives red soil its red color? | A) Iron B) Aluminium C) Zinc D) Sulphur
+165/2024 A | 29 | India ranks seventh in the world in terms of size. What is the area of India? | A) 3.18 million square kilometers B) 3.28 million square kilometers C) 3.38 million square kilometers D) 3.08 million square kilometers
+
 ### 5. "Kerala - Geography, basic information, rivers and lakes, various electricity projects, wildlife sanctuaries and national parks, fisheries, sports, local self-government institutions, etc. (10 Marks)"
+
+Question Paper | SlNo | Question | Options
+--- | --- | --- | ---
+165/2024 A | 30 | The Prime Minister of India during the period when the Idukki hydroelectric project was commissioned | A) Jawaharlal Nehru C) Charan Singh B) Rajiv Gandhi D) Indira Gandhi
+
 ### 6. "Political and social movements in Kerala related to the Indian freedom struggle, renaissance leaders (5 Marks)"
 
 Question Paper | Question | Options
