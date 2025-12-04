@@ -5,7 +5,7 @@ sumee book: (1-2096, 2-2208, 3-2107)
 question | book | page
 --- | --- | ---
 1 | social_8 | page 15
-2 | social_8 | page 70
+2 | social_8 | page 28,70
 3 | social_8 | page 23
 4 | social_8 | page 25
 9 | social_8 | page 77

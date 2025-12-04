@@ -1,5 +1,9 @@
 ## page number by question
 
+question | book | page
+--- | --- | ---
+1 | social_8 | page 15
+
 syllabus | sub syllabus | marks | questions
 --- | --- | --- | ---
 1-പൊതുവിജ്ഞാനം | 1. Indian Freedom Struggle - Political, social, and cultural movements related to the freedom struggle, national movements, freedom fighters, administrative systems, etc. | 5 Marks | 1-5
