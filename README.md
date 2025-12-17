@@ -1,3 +1,9 @@
+# Exams
+
++ Last Grade Servents: 423/2025
++ Prison officer: 420/2025
++ Village Field assistant: 571/2025
+
 # Last Grade Servents
 
 ## syllabus
