@@ -1,6 +1,6 @@
 # Exams
 
-+ Last Grade Servents: 423/2025
++ Last Grade Servents: 423/2025, 535/2023
 + Prison officer: 420/2025
 + Village Field assistant: 571/2025
 
@@ -126,16 +126,9 @@ sl no. | subject | mark
 8. സ്ഥാന നിർണ്ണയം
 
 
-### day1
+### Previous year exams
 
-+ 3 - ഭരണഘടന വഴിയും വഴികാട്ടിയും (social 7th)
-+ കേരളം അടിസ്ഥാന വിവരങ്ങൾ
-
-### day2
-
-+ 4 - അനീതിയിൽ നിന്ന് നീതിയിലേക്ക്  (social 7th)
-+ കേരളാ ചരിത്രം യൂറോപ്യന്മാരുടെ ആഗമനം & പൂർച്ചുഗീസ് ചരിത്രം
-
+Last Grade Servants Category No. 535/2023: exam dates being November 23, 2024, and December 7, 2024
 
 2027 list
 2028 aug job getting
