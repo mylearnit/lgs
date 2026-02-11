@@ -24,6 +24,12 @@ Question Paper | SlNo | Question | Options
 165/2024 A | 19 | What were the methods adopted to merge the princely states into the Indian Union after independence? i. Military action ii. Instrument of Accession iii. Conciliation | A) i, iii B) ii, iii C) i, ii, iii D) i, ii 
 170/2024 A | 18 | 'Eradication of poverty, social justice, growth with equality' - The Five Year Plan started with this objective: | (A) Ninth Five Year Plan (B) Eighth Five Year Plan (C) Tenth Five Year Plan (D) Eleventh Five Year Plan
 
+**Question Paper 170/2024**
+SlNo | Question | Options
+--- | --- | ---
+21 | മുംബൈ, കൊച്ചി, മധുര, ചെന്നൈ കണ്ട് ല, മംഗലാപുരം - ഈ കൂട്ടത്തിൽ പെടാത്ത പട്ടണം ഏത്?|A) കൊച്ചി B)മധുര C)കണ്ട്ല D)ചെന്നൈ (B)
+22 | ഭക്രാനംഗൽ അണക്കെട്ടിന്റെ പ്രാധാന്യം താഴെപ്പറയുന്നവയിൽ ഏതെല്ലാമാണ്?<br>(i) വൈദ്യുതോൽപാദനത്തിന് വേണ്ടി മാത്രം നിർമ്മിച്ചത്<br>(ii) സത്ലജ് നദിയിൽ സ്ഥിതിചെയ്യുന്നു<br>(iii) ജലസേചനത്തിന് വേണ്ടി മാത്രം നിർമ്മിച്ചത്<br>(iv) വിവിധോദ്ദേശ പദ്ധതി|A) (iii) മാത്രം B)(i) & (ii) C)(i) മാത്രം D)(ii) & (iv) (D)
+
 ### 3. "Rights and duties of a citizen, Indian Constitution - basic information (5 Marks)"
 
 Question Paper | SlNo | Question | Options
@@ -41,11 +47,31 @@ Question Paper | SlNo | Question | Options
 
 ### 4. "Geographical features of India, borders, basic information about India (5 Marks)"
 
-Question Paper | SlNo | Question | Options
+**Question Paper 165/2024**
+SlNo | Question | Options | Ans
 --- | --- | --- | ---
-165/2024 A | 25 | Mount K2, the highest peak in India, is located in | A) Ladakh B) Zaskar C) Karakoram D) Siwalik 
-165/2024 A | 26 | What gives red soil its red color? | A) Iron B) Aluminium C) Zinc D) Sulphur
-165/2024 A | 29 | India ranks seventh in the world in terms of size. What is the area of India? | A) 3.18 million square kilometers B) 3.28 million square kilometers C) 3.38 million square kilometers D) 3.08 million square kilometers
+25 | Mount K2, the highest peak in India, is located in | A) Ladakh B) Zaskar C) Karakoram D) Siwalik |
+26 | What gives red soil its red color? | A) Iron B) Aluminium C) Zinc D) Sulphur|
+29 | India ranks seventh in the world in terms of size. What is the area of India? | A) 3.18 million square kilometers B) 3.28 million square kilometers C) 3.38 million square kilometers D) 3.08 million square kilometers|
+
+
+**Question Paper 170/2024**
+SlNo | Question | Options | Ans
+--- | --- | --- | ---
+25 | നിസാം സാഗർ നദീതട പദ്ധതി ഏത് നദിയിലാണ് സ്ഥിതിചെയ്യുന്നത്?|A) ganga B)കാവേരി C)krishna D)ഗോദാവരി |4
+26|ഇന്ത്യയുടെ ഏറ്റവും തെക്കേയറ്റത്തുള്ള മേജർ തുറമുഖം ഏതാണ്?|A) വിശാഖപട്ടണം B) കൊച്ചി C) തൂത്തുക്കുടി  D) കൃഷ്ണപട്ടണം|3
+27|'ദക്ഷിൺ' എന്ന സംസ്കൃത പദത്തിൽ നിന്ന് പേര് ലഭിച്ച പിഠഭൂമി ഏത്?|A) ചോട്ടാനാഗ്പൂർ B) ഡക്കാൻ പീഠഭൂമി C) മാൾവാ പീഠഭൂമി D) കച്ച് പീഠഭൂമി|2
+28|ഹിമാചൽ പ്രദേശിനെ ലഡാക്കുമായി ബന്ധിപ്പിക്കുന്ന ചുരം ഏതാണ്?|A) ബാരാലച്ചാ ലാ ചുരം B) നാഥുലാ ചുരം C) റോഹ് താന്ദ് ചുരം D) ബനിഹാൽ ചുരം|1
+29|ഏത് രേഖാംശത്തിലെ സമയമാണ് ഇന്ത്യയുടെ പൊതുവായ സമയമായി അംഗീകരിച്ചിട്ടുള്ളത്?|A) 82.5° പൂർവ്വരേഖാംശം B) 68° കിഴക്കൻ രേഖാംശം C) 84.5° പൂർവ്വരേഖാംശം D) 90° പൂർവ്വരേഖാംശം|1
+
+**Question Paper 151/2024**
+SlNo | Question | Options | Ans
+--- | --- | --- | ---
+25|ഉപദ്വീപീയ പീഠഭൂമിയെ സംബന്ധിച്ച തെറ്റായ പ്രസ്താവന ഏത് ?<br>i. ഉയരം കൂടിയ ഭാഗം മഹാബലേശ്വർ.<br>ii. ഇതിന്റെ ഭാഗമാണ് ഡക്കാൻ പീഠഭൂമി.<br>iii. വിന്ധ്യ, സത്പുര, ആരവല്ലി, പശ്ചിമഘട്ടം, പൂർവ്വഘട്ടം എന്നിവ ഇതിന്റെ ഭാഗമാണ്.|A) i B) ii C) iii D) ഇവയൊന്നുമല്ല|1
+26|ഇന്ത്യയിലെ സംസ്ഥാനങ്ങളെ സംബന്ധിച്ച് ശരിയല്ലാത്ത ജോഡി ഏത് ?|A) ആന്ധ്രപ്രദേശ് - ഹൈദരാബാദ് B) ഉത്തരാഖണ്ഡ് - ഡെഹ്റാഡൂൺ C) ബീഹാർ - പാറ്റ്ന D) മിസ്സോറാം - eiswal|1
+27|ഇന്ത്യയെ സംബന്ധിച്ച് ശരിയായ പ്രസ്താവനകൾ ഏതെല്ലാം ?<br>i. ലോകരാജ്യങ്ങളിൽ വലിപ്പത്തിൽ ഇന്ത്യയുടെ സ്ഥാനം 7 ആണ്.<br>ii. ഇന്ത്യയിൽ 29 സംസ്ഥാനങ്ങളും 6 കേന്ദ്രഭരണ പ്രദേശങ്ങളുമാണ് നിലവിൽ ഉള്ളത്.<br>iii. "ഇന്ത്യയുടെ ഹൃദയം" എന്നറിയപ്പെടുന്ന സംസ്ഥാനം മധ്യപ്രദേശ് ആണ്.|A) i മാത്രം B) ii മാത്രം  C) i , iii  D) എല്ലാം ശരിയാണ്|3
+28|ഉത്തരപർവ്വത മേഖലയെ സംബന്ധിച്ച് തെറ്റായ പ്രസ്താവന ഏത് ?<br>i. ഉത്തരപർവ്വത മേഖലയിൽ സ്ഥിതി ചെയ്യുന്ന പർവ്വതനിരകളുടെ അടി സ്ഥാനത്തിൽ ട്രാൻസ് ഹിമാലയം, ഹിമാലയം, പൂർവ്വാചൽ എന്നിങ്ങനെ തിരിച്ചിരിക്കുന്നു.<br>ii. ഭൂമിശാസ്ത്രപരമായ പ്രത്യേകതകളുടെ അടിസ്ഥാനത്തിൽ ഹിമാലയൻ നിരകളെ സിവാലിക്, ഹിമാചൽ, ഹിമാദ്രി എന്നിങ്ങനെ തിരിച്ചിരിക്കുന്നു.<br>iii. എവറസ്റ്റ് പോലുള്ള വമ്പൻ പർവ്വതങ്ങൾ സ്ഥിതിചെയ്യുന്നത് സിവാലികിലാണ്.<br>iv. നാഗാ, ഖാസി-ഗാരോ കുന്നുകൾ പൂർവ്വാചലിൽ സ്ഥിതിചെയ്യുന്നു.| A) i B) ii C) iii D) iv|3
+29|പാക്കിസ്ഥാനുമായി അതിർത്തി പങ്കിടുന്ന ഇന്ത്യൻ സംസ്ഥാനങ്ങളിൽ ഉൾപ്പെടാത്തതേത് ?|A) രാജസ്ഥാൻ B) പഞ്ചാബ് C) ഹരിയാന D) gujarth|3
 
 ### 5. "Kerala - Geography, basic information, rivers and lakes, various electricity projects, wildlife sanctuaries and national parks, fisheries, sports, local self-government institutions, etc. (10 Marks)"
 
