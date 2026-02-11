@@ -1,12 +1,14 @@
 # Exams
 
-+ Last Grade Servents: 423/2025, 535/2023
-+ Prison officer: 420/2025
-+ Village Field assistant: 571/2025
+cat no. | title | date
+--- | --- | ---
+420/2025 | APO | april 18
+423/2025 | LGS | july - sept
+571/2025 | VFA | sept - nov
 
-# Last Grade Servents
++ LGS/Bevco: 619/2025, 423/2025, 535/2023
 
-## syllabus
+## Syllabus
 
 sl no. | subject | mark
 --- | --- | ---
@@ -19,7 +21,7 @@ sl no. | subject | mark
 
 ### 1. പൊതുവിജ്ഞാനം(GK 40 marks)
 
-GK LGS Mains(40) | LGS Prelims(60)
+LGS Mains(40) | LGS Prelims(60)
 --- | ---
 1 ഇന്ത്യൻ സ്വാതന്ത്ര്യസമരം - സ്വാതന്ത്ര്യസമര കാലഘട്ടവുമായി ബന്ധപ്പെട്ട രാഷ്ട്രീയ സാമൂഹിക സാംസ്കാരിക മുന്നേറ്റങ്ങൾ, ദേശീയ പ്രസ്ഥാനങ്ങൾ, സ്വാതന്ത്ര്യസമരസേനാനികൾ, ഭരണ സംവിധാനങ്ങൾ തുടങ്ങിയവ. (5 മാർക്ക്) | 3 ഇന്ത്യയുടെ സ്വാതന്ത്ര്യവുമായി ബന്ധപ്പെട്ട രാഷ്ട്രീയവും സാമൂഹികവും സാംസ്കാരികവുമായി ബന്ധപ്പെട്ട മുന്നേറ്റങ്ങൾ, ദേശീയ പ്രസ്ഥാനങ്ങൾ, സ്വാതന്ത്ര്യാനന്തര ഇന്ത്യ നേരിട്ട പ്രധാന വെല്ലുവിളികൾ തുടങ്ങിയവ (10 Marks)
 2 സ്വാതന്ത്ര്യാനന്തര ഇന്ത്യ നേരിട്ട പ്രധാന വെല്ലുവിളികൾ, യുദ്ധങ്ങൾ, പഞ്ചവത്സര പദ്ധതികൾ, വിവിധ മേഖലകളിലെ പുരോഗതികളും നേട്ടങ്ങളും (5 മാർക്ക്) | -
@@ -29,20 +31,11 @@ GK LGS Mains(40) | LGS Prelims(60)
 6 ഇന്ത്യൻ സ്വാതന്ത്ര്യ സമരവുമായി ബന്ധപ്പെട്ട് കേരളത്തിലുണ്ടായ രാഷ്ട്രീയ സാമൂഹിക മുന്നേറ്റങ്ങൾ, നവോത്ഥാന നായകന്മാർ (5 മാർക്ക്) | 6 ഇന്ത്യൻ സ്വാതന്ത്ര്യ സമരവുമായി ബന്ധപ്പെട്ട് കേരളത്തിലുണ്ടായ മുന്നേറ്റങ്ങളും അതിന് പിന്നിൽ പ്രവർത്തിച്ചവരും, കേരളത്തിലെ സാമൂഹ്യ പരിഷ്കരണവും അയ്യങ്കാളി, ചട്ടമ്പി സ്വാമികൾ, ശ്രീനാരയണ ഗുത, പണ്ഡിറ്റ് കറുപ്പൻ, വി.ടി. ഭട്ടതിരിപ്പാട്, കുമാര ഗുരു, മന്നത്ത് പത്മനാഭൻ തുടങ്ങിയ സാമൂഹ്യ പരിഷ്കർത്താക്കളും (10 Marks)
 7 ശാസ്ത്ര സാങ്കേതിക മേഖല, കലാ സാംസ്കാരിക മേഖല, രാഷ്ട്രീയ, സാമ്പത്തിക, സാഹിത്യ മേഖല, കായിക മേഖല എന്നിവയുമായി ബന്ധപ്പെട്ട വിവരങ്ങൾ (5 മാർക്ക്) | 1 ശാസ്ത്ര സാങ്കേതിക മേഖല, കലാ സാംസ്കാരിക മേഖല, രാഷ്ട്രീയ, സാമ്പത്തിക സാഹിത്യ മേഖല, കായിക മേഖല ഇവയുമായി ബന്ധപ്പെട്ട ഇന്ത്യയിലേയും പ്രത്യേകിച്ച് കേരളത്തിലെയും സമകാലീന സംഭവങ്ങൾ. (10 Marks)
 
-#### Translation 
-
-1. "Indian Freedom Struggle - Political, social, and cultural movements related to the freedom struggle, national movements, freedom fighters, administrative systems, etc. (5 Marks)"
-2. "Major challenges faced by post-independence India, wars, five-year plans, progress and achievements in various fields (5 Marks)"
-3. "Rights and duties of a citizen, Indian Constitution - basic information (5 Marks)"
-4. "Geographical features of India, borders, basic information about India (5 Marks)"
-5. "Kerala - Geography, basic information, rivers and lakes, various electricity projects, wildlife sanctuaries and national parks, fisheries, sports, local self-government institutions, etc. (10 Marks)"
-6. "Political and social movements in Kerala related to the Indian freedom struggle, renaissance leaders (5 Marks)"
-7. "Information related to the scientific and technical field, art and cultural field, political, economic, literary field, and sports field (5 Marks)"
 
 
 ### 2. ആനുകാലിക വിഷയങ്ങൾ (20 Marks)
 
-### 3. science
+### 3. Science (10 marks)
 
 **ജീവശാസ്ത്രം(5 marks)**
 1. മനുഷ്യശരീരത്തെക്കുറിച്ചുള്ള പൊതു അറിവ്.
@@ -66,42 +59,13 @@ GK LGS Mains(40) | LGS Prelims(60)
 11. sound and light
 12. solar system
 
-#### III. Science
-
-(i) Biology (5 Marks)
-1. General knowledge about the human body.
-2. Vitamins and deficiency diseases.
-3. Major food and agricultural crops of Kerala.
-4. "Forests, forest resources, social forestry."
-5. Environment and environmental problems.
-
-(ii) Physics / Chemistry (5 Marks)
-1. Atom and structure of the atom.
-2. Ores and minerals.
-3. Elements and their classification.
-4. Hydrogen and Oxygen.
-5. Chemistry in daily life.
-6. Matter and mass.
-7. Work and energy.
-8. Energy and its transformations.
-9. Heat and temperature.
-10. Movements and forces in nature.
-11. Sound and light.
-12. Solar system and its features.
 
 ### 4. പൊതുജനാരോഗ്യം (10 മാർക്ക്)
 
-1. സാംക്രമികരോഗങ്ങളും രോഗകാരികളും
+1. സാംക്രമിക(Infectious) രോഗങ്ങളും രോഗകാരികളും
 2. അടിസ്ഥാന ആരോഗ്യ വിജ്ഞാനം
 3. ജീവിതശൈലി രോഗങ്ങൾ
 4. കേരളത്തിലെ ആരോഗ്യക്ഷേമ പ്രവർത്തനങ്ങൾ
-
-#### IV. Public Health (10 Marks)
-
-1. Infectious diseases and pathogens.
-2. Basic health knowledge.
-3. Lifestyle diseases.
-4. Health welfare activities in Kerala.
 
 ### 5. maths
 
@@ -127,10 +91,3 @@ GK LGS Mains(40) | LGS Prelims(60)
 7. വയസുമായി ബന്ധപ്പെട്ട പ്രശ്നങ്ങൾ
 8. സ്ഥാന നിർണ്ണയം
 
-
-### Previous year exams
-
-Last Grade Servants Category No. 535/2023: exam dates being November 23, 2024, and December 7, 2024
-
-2027 list
-2028 aug job getting
